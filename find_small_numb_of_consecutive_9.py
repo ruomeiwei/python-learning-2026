@@ -7,5 +7,5 @@ while True:
     if n_9 % numb == 0:
         print(f"The smallest number consisting of {n} consecutive 9's that is divisible by {numb} is: {n_9}")
         break
-    
+
     n = n + 1 
